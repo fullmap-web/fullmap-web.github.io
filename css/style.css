@@ -92,18 +92,18 @@ a:hover {
     text-decoration: none;
     position: fixed;
     bottom: 38px;
-    right: 3%;
+    right: 1.5%;
     overflow: hidden;
     z-index: 999;
-    width: 88px;
-    height: 88px;
+    width: 48px;
+    height: 48px;
     border: none;
     text-indent: 100%;
-    background: url("../images/top1.png")/*tpa=http://demo.cssmoban.com:8020/cssthemes6/oyqj-0907-6/images/move-top.png*/ no-repeat 0px 0px;
+    background: url("../images/top0.png")/*tpa=http://demo.cssmoban.com:8020/cssthemes6/oyqj-0907-6/images/move-top.png*/ no-repeat 0px 0px;
 }
 
 #toTopHover {
-    width: 88px;
+    width: 48px;
     display: block;
     overflow: hidden;
     float: right;
