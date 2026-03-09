@@ -91,20 +91,19 @@ a:hover {
     display: none;
     text-decoration: none;
     position: fixed;
-    bottom: 48px;
+    bottom: 38px;
     right: 3%;
     overflow: hidden;
     z-index: 999;
-    width: 32px;
-    height: 38px;
+    width: 88px;
+    height: 88px;
     border: none;
     text-indent: 100%;
-    background: url("../images/move-top.png")/*tpa=http://demo.cssmoban.com:8020/cssthemes6/oyqj-0907-6/images/move-top.png*/ no-repeat 0px 0px;
+    background: url("../images/top1.png")/*tpa=http://demo.cssmoban.com:8020/cssthemes6/oyqj-0907-6/images/move-top.png*/ no-repeat 0px 0px;
 }
 
 #toTopHover {
-    width: 32px;
-    height: 34px;
+    width: 88px;
     display: block;
     overflow: hidden;
     float: right;
